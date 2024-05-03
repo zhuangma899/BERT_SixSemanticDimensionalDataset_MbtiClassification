@@ -1,8 +1,8 @@
 # BERT_SixSemanticDimensionalDataset_MbtiClassification
 
 ## dataset folder contains 2 dataset: 
-Mbti dataset with corresponding labels
-SSDD dataset (7 semantic dimension of a word)
+Mbti dataset with corresponding labels.
+SSDD dataset (7 semantic dimension of a word).
 
 ## BERT_with_SSDD: 
 
