@@ -1,4 +1,4 @@
-# Transformer_SemanticDataset_MBTI
+# BERT_SixSemanticDimensionalDataset_MbtiClassification
 
 dataset folder contains 2 dataset: 
 Mbti dataset with corresponding labels
