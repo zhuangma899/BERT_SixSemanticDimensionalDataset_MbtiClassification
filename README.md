@@ -12,3 +12,6 @@ construct the classification baseline with SSDD dataset.
 
 construct the classification baseline without SSDD dataset.
 
+## final report 
+
+more details about the pipeline could refer to the final report.
