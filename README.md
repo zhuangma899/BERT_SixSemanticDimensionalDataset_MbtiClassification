@@ -1,4 +1,4 @@
-# Transformer_SemanticDataset_MBTI
+# Transformer_SemanticDataset_
 
 dataset folder contains 2 dataset: 
 Mbti dataset with corresponding labels
