@@ -16,3 +16,8 @@ construct the classification baseline without SSDD dataset.
 ## final report 
 
 more details about the pipeline could refer to the final report.
+
+
+## BERT_Structure
+
+Structure of BERT to be pre-trained
